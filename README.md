@@ -1,5 +1,3 @@
-**README: Bitcoin Returns and Lunar Phases**
-
 **Overview**
 
 This project investigates whether Bitcoin’s daily returns and volatility exhibit any statistical relationship with the lunar cycle. Motivated by prior behavioural-finance studies that document lunar effects on stock markets, we test this hypothesis on Bitcoin, an asset known for extreme volatility and sentiment-driven trading.
