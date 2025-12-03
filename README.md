@@ -62,8 +62,3 @@ Volatility and extreme-move probabilities remain constant throughout the cycle.
 Both linear and nonlinear dependence measures confirm independence.
 
 This suggests Bitcoin’s behaviour is better explained by market microstructure and sentiment dynamics rather than astrophysical phenomena.
-
-
-copula_analysis.R
-
-View results in /results.
